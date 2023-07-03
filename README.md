@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariopmt
 - 👀 Estou interessado em Data Science
-- 🌱 Atualmente estou aprendendo Orientaão a objeto no Pyhton
+- 🌱 Atualmente estou aprendendo Orientação a objeto no Pyhton
 - 💞️ E estou postando meus códigos aqui para estudo
 
 
