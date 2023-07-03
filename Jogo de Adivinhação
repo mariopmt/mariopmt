@@ -1,8 +1,9 @@
 import random
 
 def jogar():
+
     msg_abertura()
-    escolhe_dificuldade()
+    tentativas = escolhe_dificuldade()
 
     numero_secreto = random.randrange(1,101)
     pontos = 1000
